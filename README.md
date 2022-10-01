@@ -28,11 +28,17 @@ Code architecture
 User Interface
 
 - Discover some useful widgets at [Widget Of the Week](https://www.youtube.com/hashtag/widgetoftheweek)
+- [Flutter Widget Livebook](https://flutter-widget.live/basics/introduction)
+- [Flutter Gallery](https://gallery.flutter.dev/#/)
 
 Testing
 
 - [Widget Testing [2022]](https://www.youtube.com/watch?v=aReBbQgLjtk)
 - [Other testing resources](https://verygood.ventures/blog/flutter-testing-resources)
+- Libraries:
+  - Unit/widget testing: [mocktail](https://github.com/felangel/mocktail)
+  - Snapshot (golden) testing: [alchemist](https://github.com/Betterment/alchemist)
+  - UI/e2e: [maestro](https://maestro.mobile.dev/)
 
 CI/CD
 
@@ -43,7 +49,13 @@ CI/CD
     - You could use a [dotenv file](https://docs.fastlane.tools/best-practices/keys/#dotenv) instead of adding a lot of secrets
 - [reusable GitHub Actions workflows](https://github.com/VeryGoodOpenSource/very_good_workflows)
 
+Code examples
+
+- [Google I/O 2021 Photo Booth](https://github.com/flutter/photobooth)
+- 
+
 Other
 
 - [Flutter's youtube channel](https://www.youtube.com/c/flutterdev/playlists) has an infinite amount of good content teaching more about Flutter.
 - [Flutter Vikings 2022 conf videos](https://www.youtube.com/watch?v=gn1F7GClECY&list=PL4dBIh1xps-EWXK28Qn9kiLK9-eXyqKLX)
+- [DartFrog: dart on backend](https://github.com/verygoodopensource/dart_frog)
