@@ -4,6 +4,7 @@
 
 * [ ] `very_good create my_personal_project`
 * [ ] Go to [BloC tutorials](https://bloclibrary.dev/#/fluttertodostutorial) and try to implement one of those following the [Bloc docs](https://bloclibrary.dev/#/fluttertodostutorial)
+* [ ] Push your code to a GitHub repo and try adding some workflows to run automated tests and linter on pull requests
 
 ## Resources
 
