@@ -1,9 +1,9 @@
 # Flutter Roadmap
 
-## Roadmap
+## Task list
 
-1. `very_good create my_personal_project`
-2. Go to [BloC tutorials](https://bloclibrary.dev/#/fluttertodostutorial) and try to implement one of those following the [Bloc docs](https://bloclibrary.dev/#/fluttertodostutorial)
+* [ ]`very_good create my_personal_project`
+* [ ] Go to [BloC tutorials](https://bloclibrary.dev/#/fluttertodostutorial) and try to implement one of those following the [Bloc docs](https://bloclibrary.dev/#/fluttertodostutorial)
 
 ## Resources
 
