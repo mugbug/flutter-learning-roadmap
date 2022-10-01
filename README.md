@@ -36,7 +36,7 @@ Testing
 - [Widget Testing [2022]](https://www.youtube.com/watch?v=aReBbQgLjtk)
 - [Other testing resources](https://verygood.ventures/blog/flutter-testing-resources)
 - Libraries:
-  - Mocking: [mocktail](https://github.com/felangel/mocktail)
+  - Unit & widget & mocking: [mocktail](https://github.com/felangel/mocktail)
   - Snapshot (golden) testing: [alchemist](https://github.com/Betterment/alchemist)
   - UI/e2e: [maestro](https://maestro.mobile.dev/)
 
