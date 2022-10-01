@@ -24,3 +24,11 @@ Testing
 
 - [Widget Testing [2022]](https://www.youtube.com/watch?v=aReBbQgLjtk)
 - [Other testing resources](https://verygood.ventures/blog/flutter-testing-resources)
+
+CI/CD
+
+- [fastlane](https://docs.fastlane.tools/)
+  - Android: 
+  - iOS: [Tutorial](https://joshuamdeguzman.com/continuous-delivery-for-flutter-using-fastlane-and-github-actions-pt-3-ios/)
+    - Create a Deploy Key for the certificates repo instead of a github's personal access token
+    - You could use a [dotenv file](https://docs.fastlane.tools/best-practices/keys/#dotenv) instead of adding a lot of secrets
