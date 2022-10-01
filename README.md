@@ -2,7 +2,7 @@
 
 ## Task list
 
-* [ ]`very_good create my_personal_project`
+* [ ] `very_good create my_personal_project`
 * [ ] Go to [BloC tutorials](https://bloclibrary.dev/#/fluttertodostutorial) and try to implement one of those following the [Bloc docs](https://bloclibrary.dev/#/fluttertodostutorial)
 
 ## Resources
