@@ -10,6 +10,7 @@
 
 Project starting point:
 
+- [fvm to install flutter and switch between versions](https://fvm.app/)
 - [https://pub.dev/packages/very_good_cli](https://pub.dev/packages/very_good_cli) use this instead of the default `flutter create`
 
 Foundation:
@@ -49,13 +50,18 @@ CI/CD
     - You could use a [dotenv file](https://docs.fastlane.tools/best-practices/keys/#dotenv) instead of adding a lot of secrets
 - [reusable GitHub Actions workflows](https://github.com/VeryGoodOpenSource/very_good_workflows)
 
+Monorepo
+
+- [melos](https://melos.invertase.dev/)
+
 Code examples
 
 - [Google I/O 2021 Photo Booth](https://github.com/flutter/photobooth)
-- 
+- [Flutter News Toolkit example](https://github.com/flutter/news_toolkit/tree/main/flutter_news_example)
 
 Other
 
+- [File templates with BrickHub + Mason](https://brickhub.dev/)
 - [Flutter's youtube channel](https://www.youtube.com/c/flutterdev/playlists) has an infinite amount of good content teaching more about Flutter.
 - [Flutter Vikings 2022 conf videos](https://www.youtube.com/watch?v=gn1F7GClECY&list=PL4dBIh1xps-EWXK28Qn9kiLK9-eXyqKLX)
 - [DartFrog: dart on backend](https://github.com/verygoodopensource/dart_frog)
