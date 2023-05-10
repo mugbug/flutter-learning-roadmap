@@ -54,6 +54,11 @@ Monorepo
 
 - [melos](https://melos.invertase.dev/)
 
+Tooling
+
+- [DevTools](https://www.youtube.com/watch?v=nq43mP7hjAE)
+- [File templates with BrickHub + Mason](https://brickhub.dev/)
+
 Code examples
 
 - [Google I/O 2021 Photo Booth](https://github.com/flutter/photobooth)
@@ -61,7 +66,6 @@ Code examples
 
 Other
 
-- [File templates with BrickHub + Mason](https://brickhub.dev/)
 - [Flutter's youtube channel](https://www.youtube.com/c/flutterdev/playlists) has an infinite amount of good content teaching more about Flutter.
 - [Flutter Vikings 2022 conf videos](https://www.youtube.com/watch?v=gn1F7GClECY&list=PL4dBIh1xps-EWXK28Qn9kiLK9-eXyqKLX)
 - [DartFrog: dart on backend](https://github.com/verygoodopensource/dart_frog)
